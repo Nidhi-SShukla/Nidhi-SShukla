@@ -1,4 +1,4 @@
-### Hi I am Nidhi Shukla
+###  Hi I am Nidhi Shukla
 
 <!--
 **Nidhi-SShukla/Nidhi-SShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI and its application to automation testing
 - 💬 Ask me about : selenium webdriver, core java
 - 📫 How to reach me: nidhishukla.automation@gmail.com
+  ### Language and Tools :
+  [![My Skills](https://skillicons.dev/icons?i=js,selenium,java)](https://skillicons.dev)
+
+
+  
 
 
